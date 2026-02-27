@@ -24,7 +24,7 @@
 
 </details>
 
-<details open><summary>ちなみに</summary>
+<details><summary>ちなみに</summary>
 
 - ゲームも検索可能
 
